@@ -1,5 +1,8 @@
 # User-friendly-Graphical-User-Interface-for-Echocardiography-Processing
 
+How to run
+----------
+
 Current graphical user interface (GUI) presents a user-friendly interactive module for processing ultrasound videos (echocardiography). In general, the GUI has two major component: 
 - ### Setting up the directory
 - ### Video-processing toolbox
