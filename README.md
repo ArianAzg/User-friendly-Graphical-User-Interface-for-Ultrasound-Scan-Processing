@@ -74,3 +74,7 @@ Requirements
 The Python code is written in Python 3.9. All the required Python packages can be installed using the following command:
     
     $ pip install -r requirements.txt
+
+License and Citation
+---------
+The codes are licensed under GPL-2.0 license. 
