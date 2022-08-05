@@ -77,4 +77,4 @@ The Python code is written in Python 3.9. All the required Python packages can b
 
 License and Citation
 ---------
-The codes are licensed under GPL-2.0 license. 
+The codes are licensed under MIT license. 
