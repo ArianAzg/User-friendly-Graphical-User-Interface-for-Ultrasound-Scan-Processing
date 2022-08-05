@@ -66,3 +66,11 @@ Next step is involving the video processing units for each selected video. The u
 - **Final**: The output of the masking will be diplayed in the main video feed of GUI. Moreover, the processed video will be saved in the current directory. 
 
 The above steps must be repeated for **"Best TP2"** and **"Best TP3"** buttons. Once all the processing units are complete, the user must click on **"Play All"** button on the right lower corner. This will play all the processed videos at the same time. The videos can be closed by clicking on **"q"** on the keyboard.
+
+
+Requirements
+------------
+
+The Python code is written in Python 3.9. All the required Python packages can be installed using the following command:
+    
+    $ pip install -r requirements.txt
