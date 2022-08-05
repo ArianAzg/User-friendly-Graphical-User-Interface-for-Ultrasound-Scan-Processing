@@ -1,5 +1,11 @@
 # User-friendly-Graphical-User-Interface-for-Echocardiography-Processing
 
+
+<p align="center">
+  <img width="600" height="600" src="https://user-images.githubusercontent.com/48659018/183148498-c4812dae-6494-4c20-93e5-46c4c44e8d85.jpg">
+</p>
+
+
 Requirements
 ------------
 
