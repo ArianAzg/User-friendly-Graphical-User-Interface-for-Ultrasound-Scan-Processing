@@ -70,7 +70,7 @@ Plesae not that number of timepoints per organ is not consistent throughout the 
 
 ### NOTE: All three "TP1", "TP2", and "TP3" must be processed and one video in each must be selected. Then, the user can click on "Play" button on the top right corner. All the selected videos will be shown at the same time. To quit the opened videos, the user must select "q" on the keyboard. This step must be repeated to the point that user's decision is finalized and don't want to make any more changes to the selected vidoes. 
 
-Next step is involving the video processing units for each selected video. The user must select **"Best TP1"**, **"Best TP2"**, and **"Best TP3"** only once throughout the entire video processing module. What it means is that once, for example **"Best TP1"**, gets selected, the user must go through all the buttons from **"Play"** to **"Final"** in the last row before clicking on **"Best TP2"** or **"Best TP3"**. The video processing module consists of the following buttons:
+Next step is involving the video processing units for each selected video. The user must select **"Best TP1"**, **"Best TP2"**, and **"Best TP3"** only once throughout the entire video processing module. What it means is that once, for example, **"Best TP1"**, gets selected, the user must go through all the buttons from **"Play"** to **"Final"** in the last row before clicking on **"Best TP2"** or **"Best TP3"**. The video processing module consists of the following buttons:
 
 - **Triangle button (Play)**: It plays the selected video in the video feed located at the center of GUI. 
 - **Square button (Stop)**: It stops and resets the selected video. To replay, the above button must be selected. 
@@ -78,13 +78,13 @@ Next step is involving the video processing units for each selected video. The u
 - **Set start**: The user can set the starting point of trimming in time. 
 - **Set end**: The user can set the ending point of trimming in time. 
 - **View**: It shows and saves the trimmed version of video in the current directory. 
-- **Crop**: It shows one frame of the video in separate display and the user can draw a random geomteric shape (region-of-interest (ROI) selection) by holding the mouse. Once the user is happy with the drawn ROI, he/she must select **"q"** on the keyboard. 
-- **Mask**: The selected ROI will be applied to all frames and the output will be shown in separate display.
-- **Final**: The output of the masking will be diplayed in the main video feed of GUI. Moreover, the processed video will be saved in the current directory. 
+- **Crop**: It shows one frame of the video in a separate display and the user can draw a random geometric shape (region-of-interest (ROI) selection) by holding the mouse. Once the user is happy with the drawn ROI, he/she must select **"q"** on the keyboard. 
+- **Mask**: The selected ROI will be applied to all frames and the output will be shown in a separate display.
+- **Final**: The output of the masking will be displayed in the main video feed of GUI. Moreover, the processed video will be saved in the current directory. 
 
 The above steps must be repeated for **"Best TP2"** and **"Best TP3"** buttons. Once all the processing units are complete, the user must click on **"Play All"** button on the right lower corner. This will play all the processed videos at the same time. The videos can be closed by clicking on **"q"** on the keyboard.
 
 
 License and Citation
 ---------
-The codes are licensed under MIT license. 
+The codes are licensed under GPL 2.0 license. 
