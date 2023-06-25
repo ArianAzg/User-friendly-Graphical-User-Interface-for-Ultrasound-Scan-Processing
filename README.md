@@ -17,7 +17,7 @@ The Python code is written in Python 3.9. All the required Python packages can b
 How to run
 ----------
 
-Current graphical user interface (GUI) presents a user-friendly interactive module for processing ultrasound videos (echocardiography). In general, the GUI has two major component: 
+The current graphical user interface (GUI) presents a user-friendly interactive module for processing ultrasound videos (echocardiography). In general, the GUI has two major component: 
 - ### Setting up the directory
 - ### Video-processing toolbox
 
