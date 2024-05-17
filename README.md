@@ -1,4 +1,4 @@
-# User-friendly-Graphical-User-Interface-for-Echocardiography-Processing
+# User-friendly-Graphical-User-Interface-for-Ultrasound-Scan-Processing
 
 
 <p align="center">
