@@ -1,5 +1,23 @@
-# User-friendly-Graphical-User-Interface-for-Ultrasound-Scan-Processing
+## User-friendly-Graphical-User-Interface-for-Ultrasound-Scan-Processing
 
+<h1 align="center">
+  <a href="https://github.com/ankitwasankar/mftool-java">
+    <img src="https://img.shields.io/badge/Language-Python 3.10-informational?style=flat&logo=Python&color=2bbc8a">
+  </a>
+  <a href="https://github.com/ankitwasankar/mftool-java">
+    <img src="https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=Numpy&color=FAC205">
+  </a>
+  <a href="https://github.com/ankitwasankar/mftool-java">
+    <img src="https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&color=2bbc8a">
+  </a>
+  <a href="https://github.com/ankitwasankar/mftool-java">
+    <img src="https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=python&color=DC143C">
+  </a>
+
+  <a href="https://github.com/ankitwasankar/mftool-java">
+    <img src="https://img.shields.io/badge/Operating System-Windows 10-informational?style=flat&logo=Windows10&color=E6DAA6">
+  </a>
+</h1>
 
 <p align="center">
   <img width="600" height="600" src="https://user-images.githubusercontent.com/48659018/183148498-c4812dae-6494-4c20-93e5-46c4c44e8d85.jpg">
@@ -9,7 +27,7 @@
 Requirements
 ------------
 
-The Python code is written in Python 3.9. All the required Python packages can be installed using the following command:
+The Python code is written in Python 3.10. All the required Python packages can be installed using the following command:
     
     $ pip install -r requirements.txt
 
