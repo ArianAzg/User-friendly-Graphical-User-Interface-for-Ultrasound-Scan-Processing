@@ -27,7 +27,11 @@
 Requirements
 ------------
 
-The Python code is written in Python 3.10. All the required Python packages can be installed using the following command:
+The software requires `Python >= 3.10` for best performance. Create an environment in your `Anaconda` using the following command: 
+
+    conda create --name Turtle_US python==3.10
+
+All the required Python packages can be installed using the following command in the new environment (i.e., Turtle_US):
     
     $ pip install -r requirements.txt
 
