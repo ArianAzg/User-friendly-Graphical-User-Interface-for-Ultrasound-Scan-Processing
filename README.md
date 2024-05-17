@@ -39,7 +39,7 @@ All the required Python packages can be installed using the following command in
 How to run
 ----------
 
-The current graphical user interface (GUI) presents a user-friendly interactive module for processing ultrasound videos (echocardiography). In general, the GUI has two major component: 
+The current graphical user interface (GUI) presents a user-friendly interactive module for processing ultrasound scans. In general, the GUI has two major component: 
 - ### Setting up the directory
 - ### Video-processing toolbox
 
