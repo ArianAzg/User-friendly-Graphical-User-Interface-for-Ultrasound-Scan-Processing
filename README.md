@@ -101,6 +101,11 @@ Next step is involving the video processing units for each selected video. The u
 The above steps must be repeated for **"Best TP2"** and **"Best TP3"** buttons. Once all the processing units are complete, the user must click on **"Play All"** button on the right lower corner. This will play all the processed videos at the same time. The videos can be closed by clicking on **"q"** on the keyboard.
 
 
+
 License and Citation
 ---------
 The codes are licensed under GPL 2.0 license. 
+
+## Contact 
+
+For bug reports and feature requests please contact us at: aazarang@unc.edu. 
