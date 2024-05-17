@@ -103,7 +103,7 @@ The above steps must be repeated for **"Best TP2"** and **"Best TP3"** buttons. 
 ## Citation 
 
 For any utilization of the code content of this repository, the following paper needs to get cited by the user:
-> 1. TBD
+> 1. Eltz, K., Crespo, J.L., Azarang, A., Dayton, P., Garcia, D., Fahlman, A. and Papadopoulou, V., 2023. ANALYSIS OF GAS EVOLUTION IN THE HEART, LIVER AND KIDNEY OF TURTLES PRESENTING WITH GAS EMBOLIC PATHOLOGY BASED ON ULTRASONOGRAPHY.
 
 License and Citation
 ---------
