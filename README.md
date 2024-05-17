@@ -24,63 +24,36 @@ The current graphical user interface (GUI) presents a user-friendly interactive 
 The first step is to select the input directory by clicking on **"Set Path"** button on GUI. From the opened window, the user must select the organ folder of a specific turtle. The **Turtle-ID** along with the **Organ Name** will be shown in a small entry box below the **"Set Path"** button. For this project, each folder consists of several timepoints and within each timepoint, there are a number of views avaibale for a given organ (Heart, Kidney, and Liver). To be more specific, a sample structure of dataset is summarized below (for only one turtle ID):
 ```
 ├── Main folder
-|   ├── 0YZ
-|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR
-|   ├── 1C0
-|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR, LT-C-LN, LT-C-TR, RT-C-LN, RT-C-TR
-|   ├── AA0
-|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR
-|   ├── BBX
-|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR
-.
-.
-.
-|   ├── ZYX
-|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR, LT-C-LN, LT-C-TR, RT-C-LN, RT-C-TR
+|   ├── Turtle ID_1
+|   |   ├── Heart
+|   |   |   ├── Timepoint 1
+|   |   |   |   ├── Scan 1
+|   |   |   |   ├── Scan 2
+|   |   |   |   ├── Scan 3
+|   |   |   ├── Timepoint 2
+|   |   |   |   ├── Scan 1
+|   |   |   |   ├── Scan 2
+|   |   ├── Liver
+|   |   |   ├── Timepoint 1
+|   |   |   |   ├── Scan 1
+|   |   |   |   ├── Scan 2
+|   |   |   |   ├── Scan 3
+|   |   |   ├── Timepoint 2
+|   |   |   |   ├── Scan 1
+|   |   |   |   ├── Scan 2
+|   |   |   ├── Timepoint 3
+|   |   |   |   ├── Scan 1
+|   |   |   |   ├── Scan 2
+|   |   |   |   ├── Scan 3
+|   |   ├── Kidney
+|   |   |   ├── Timepoint 1
+|   |   |   |   ├── Scan 1
+|   |   |   |   ├── Scan 2
+|   |   |   |   ├── Scan 3
+|   |   |   ├── Timepoint 2
+|   |   |   |   ├── Scan 1
+|   |   |   |   ├── Scan 2
 ```
-
-
-- ## Main folder
-    - ### Turtle ID_1
-        - #### Heart
-            - Timepoint 1
-                - Video 1
-                - Video 2
-                - Video 3
-            - Timepoint 2
-                - Video 1
-                - Video 2
-                - Video 3            
-            - Timepoint 3
-                - Video 1
-                - Video 2
-                - Video 3
-        - #### Liver
-            - Timepoint 1
-                - Video 1
-                - Video 2
-                - Video 3
-            - Timepoint 2
-                - Video 1
-                - Video 2
-                - Video 3            
-            - Timepoint 3
-                - Video 1
-                - Video 2
-                - Video 3
-        - #### Kidney
-            - Timepoint 1
-                - Video 1
-                - Video 2
-                - Video 3
-            - Timepoint 2
-                - Video 1
-                - Video 2
-                - Video 3            
-            - Timepoint 3
-                - Video 1
-                - Video 2
-                - Video 3
 
 Plesae not that number of timepoints per organ is not consistent throughout the dataset (ranging between 3 to 5). First, the user must select a desired organ folder to work with through setting up the path. Next, the user has three timepoints available for each organ, denoted as **"TP1"**, **"TP2"**, and **"TP3"** buttons. For example, by clicking on **"TP1"**, all the available videos within the folder will be shown on the listbox. At this point, the user must select one of the available videos by double-clicking on the file name (in the listbox). The same steps must be repearted for **"TP2"** and **"TP3"**. 
 
