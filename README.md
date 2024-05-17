@@ -53,6 +53,9 @@ The first step is to select the input directory by clicking on **"Set Path"** bu
 |   |   |   ├── Timepoint 2
 |   |   |   |   ├── Scan 1
 |   |   |   |   ├── Scan 2
+.
+.
+.
 ```
 
 Plesae not that number of timepoints per organ is not consistent throughout the dataset (ranging between 3 to 5). First, the user must select a desired organ folder to work with through setting up the path. Next, the user has three timepoints available for each organ, denoted as **"TP1"**, **"TP2"**, and **"TP3"** buttons. For example, by clicking on **"TP1"**, all the available videos within the folder will be shown on the listbox. At this point, the user must select one of the available videos by double-clicking on the file name (in the listbox). The same steps must be repearted for **"TP2"** and **"TP3"**. 
