@@ -22,6 +22,24 @@ The current graphical user interface (GUI) presents a user-friendly interactive 
 - ### Video-processing toolbox
 
 The first step is to select the input directory by clicking on **"Set Path"** button on GUI. From the opened window, the user must select the organ folder of a specific turtle. The **Turtle-ID** along with the **Organ Name** will be shown in a small entry box below the **"Set Path"** button. For this project, each folder consists of several timepoints and within each timepoint, there are a number of views avaibale for a given organ (Heart, Kidney, and Liver). To be more specific, a sample structure of dataset is summarized below (for only one turtle ID):
+```
+├── Main folder
+|   ├── 0YZ
+|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR
+|   ├── 1C0
+|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR, LT-C-LN, LT-C-TR, RT-C-LN, RT-C-TR
+|   ├── AA0
+|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR
+|   ├── BBX
+|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR
+.
+.
+.
+|   ├── ZYX
+|   |   ├── LT-B-LN, LT-B-TR, RT-B-LN, RT-B-TR, LT-C-LN, LT-C-TR, RT-C-LN, RT-C-TR
+```
+
+
 - ## Main folder
     - ### Turtle ID_1
         - #### Heart
