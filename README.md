@@ -1,5 +1,4 @@
-## User-friendly Graphical-User-Interface-for-Ultrasound-Scan-Processing
-
+## User-friendly Graphical User Interface for Analyzing Ultrasound Scans
 <h1 align="center">
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Language-Python 3.10-informational?style=flat&logo=Python&color=2bbc8a">
