@@ -1,4 +1,4 @@
-## User-friendly-Graphical-User-Interface-for-Ultrasound-Scan-Processing
+## User-friendly Graphical-User-Interface-for-Ultrasound-Scan-Processing
 
 <h1 align="center">
   <a href="https://github.com/ankitwasankar/mftool-java">
