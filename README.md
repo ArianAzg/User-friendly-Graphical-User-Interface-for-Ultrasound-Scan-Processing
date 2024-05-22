@@ -19,9 +19,10 @@
 </h1>
 
 <p align="center">
-  <img width="600" height="600" src="https://user-images.githubusercontent.com/48659018/183148498-c4812dae-6494-4c20-93e5-46c4c44e8d85.jpg">
+  <img width="500" height="500" src="https://github.com/ArianAzg/User-friendly-Graphical-User-Interface-for-Ultrasound-Scan-Processing/assets/48659018/221b5bbd-1b43-46c9-b66a-d5477f145dbb">
+    <br>
+    <em> Example frame of sea turtle ultrasound scan shown in developed software.</em>
 </p>
-
 
 Requirements
 ------------
