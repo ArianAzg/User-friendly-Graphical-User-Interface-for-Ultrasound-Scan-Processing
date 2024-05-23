@@ -72,6 +72,7 @@ The first step is to select the input directory by clicking on **"Set Path"** bu
 |   |   |   |   ├── Scan 1
 |   |   |   |   ├── Scan 2
 |   |   |   |   ├── Scan 3
+|   |   |   |   ├── Scan 4
 |   |   |   ├── Timepoint 2
 |   |   |   |   ├── Scan 1
 |   |   |   |   ├── Scan 2
