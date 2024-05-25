@@ -21,7 +21,7 @@
 <p align="center">
   <img width="500" height="500" src="https://github.com/ArianAzg/User-friendly-Graphical-User-Interface-for-Ultrasound-Scan-Processing/assets/48659018/221b5bbd-1b43-46c9-b66a-d5477f145dbb">
     <br>
-    <em> Example frame of sea turtle ultrasound scan shown in developed software.</em>
+    <em> Figure 1. Example frame of sea turtle ultrasound scan shown in developed software.</em>
 </p>
 
 Requirements
