@@ -40,7 +40,7 @@ How to run
 ----------
 
 The current graphical user interface (GUI) presents a user-friendly interactive module for processing ultrasound scans. In general, the GUI has two major component: 
-  1 Setting up the directory
+  1. Setting up the directory
   2. Video-processing toolbox
 
 The first step is to select the input directory by clicking on **"Set Path"** button on GUI. From the opened window, the user must select the organ folder of a specific turtle. The **Turtle-ID** along with the **Organ Name** will be shown in a small entry box below the **"Set Path"** button. For this project, each folder consists of several timepoints and within each timepoint, there are a number of views avaibale for a given organ (Heart, Kidney, and Liver). To be more specific, a sample structure of dataset is summarized below (for only one turtle ID):
