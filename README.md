@@ -112,4 +112,4 @@ The codes are licensed under GPL 2.0 license.
 
 ## Contact 
 
-For bug reports and feature requests please contact us at: aazarang@unc.edu. A demo will be posted soon!
+For bug reports and feature requests please contact us at: aazarang@unc.edu. 
